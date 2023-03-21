@@ -1,1 +1,1 @@
-# JavaAssignment1-ineuron
+# Java Programming Practice
